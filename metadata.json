@@ -1,0 +1,6 @@
+{
+  "name": "StoryWalk! Interacting Stories",
+  "description": "Interactive English picture-book reading app that guides 5th–6th grade learners through listening, understanding, and speaking with locational prepositions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
